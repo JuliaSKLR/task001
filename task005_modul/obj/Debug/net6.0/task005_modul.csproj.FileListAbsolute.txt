@@ -1,0 +1,15 @@
+D:\User Data\Derla\Desktop\task2\task005_modul\obj\Debug\net6.0\task005_modul.csproj.AssemblyReference.cache
+D:\User Data\Derla\Desktop\task2\task005_modul\obj\Debug\net6.0\task005_modul.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Data\Derla\Desktop\task2\task005_modul\obj\Debug\net6.0\task005_modul.AssemblyInfoInputs.cache
+D:\User Data\Derla\Desktop\task2\task005_modul\obj\Debug\net6.0\task005_modul.AssemblyInfo.cs
+D:\User Data\Derla\Desktop\task2\task005_modul\obj\Debug\net6.0\task005_modul.csproj.CoreCompileInputs.cache
+D:\User Data\Derla\Desktop\task2\task005_modul\bin\Debug\net6.0\task005_modul.exe
+D:\User Data\Derla\Desktop\task2\task005_modul\bin\Debug\net6.0\task005_modul.deps.json
+D:\User Data\Derla\Desktop\task2\task005_modul\bin\Debug\net6.0\task005_modul.runtimeconfig.json
+D:\User Data\Derla\Desktop\task2\task005_modul\bin\Debug\net6.0\task005_modul.dll
+D:\User Data\Derla\Desktop\task2\task005_modul\bin\Debug\net6.0\task005_modul.pdb
+D:\User Data\Derla\Desktop\task2\task005_modul\obj\Debug\net6.0\task005_modul.dll
+D:\User Data\Derla\Desktop\task2\task005_modul\obj\Debug\net6.0\refint\task005_modul.dll
+D:\User Data\Derla\Desktop\task2\task005_modul\obj\Debug\net6.0\task005_modul.pdb
+D:\User Data\Derla\Desktop\task2\task005_modul\obj\Debug\net6.0\task005_modul.genruntimeconfig.cache
+D:\User Data\Derla\Desktop\task2\task005_modul\obj\Debug\net6.0\ref\task005_modul.dll
